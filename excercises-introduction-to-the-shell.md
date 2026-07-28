@@ -1,8 +1,8 @@
-2. What does the -l flag to ls do? 
-The -l flag list files in the long format.
+2. What does the -l flag to ls do?  
+The -l flag list files in the long format.  
 The Long Format is the following information is displayed for each file: file mode, number of links, owner name, group name, number of bytes in the file, abbreviated month, day-of-month file was lat modified, hour file last modified, minute file last modified, and the pathname....
 
-3. What is a glob?
+3. What is a glob?  
 "Glob" is the pattern for the command to match when finding base on name of the object (file/directory).
 
 Pattern Matching in the Bash manual https://www.gnu.org/software/bash/manual/html_node/Pattern-Matching.html
